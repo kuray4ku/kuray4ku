@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/kuray4ku?label=Followers&style=flat-square&color=success" alt="GitHub followers" />
   </a>
   <a href="https://kuray4ku.biz.id">
-    <img src="https://img.shields.io/badge/Portfolio-yaku.my.id-informational?style=flat-square&logo=firefox&logoColor=white&color=orange" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-kuray4ku.biz.id-informational?style=flat-square&logo=firefox&logoColor=white&color=orange" alt="Portfolio" />
   </a>
 </p>
 
