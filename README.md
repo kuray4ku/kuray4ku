@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Halo, Saya Kurayaku (Yaku)!</h1>
-<h3 align="center">Fullstack Developer • Penulis • Gamer</h3>
+<h3 align="center">Junior Web Developer • Penulis • Gamer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kuray4ku">
